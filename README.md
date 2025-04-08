@@ -1,2 +1,2 @@
-# Assignment---1
-This is an assignment 1 .
+# Assignment---1,2 and 3
+This is an assignment 1 , 2 and 3 
